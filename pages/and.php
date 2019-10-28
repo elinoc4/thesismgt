@@ -1,0 +1,1 @@
+<?php if(isset($msg)){echo "<div id='detail' class='alert alert-info' role='alert' >".$msg."</div>";}?>
